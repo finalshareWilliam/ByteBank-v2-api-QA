@@ -59,6 +59,46 @@
         }
       ],
       "saldo": 3500
+    },
+    {
+      "id": "73c7daa1-b79d-4ebb-87b3-6104752738ea",
+      "nome": "William Souza",
+      "email": "william@teste.com",
+      "senha": "123456",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "c08f270a-9dd2-4128-a346-8e7156f5f79a",
+      "nome": "William Souza",
+      "email": "william@teste.com",
+      "senha": "123456",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "b803f09c-a11c-4a5e-86ad-abc86ad5e956",
+      "nome": "Dana Stehr",
+      "email": "Keven.Maggio@yahoo.com",
+      "senha": "ucq39Cd6MR7EABv",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "45206a83-9578-40c6-a4ae-2c79ecfbea63",
+      "nome": "Nicholas Reichert",
+      "email": "Virginia.Hills2@yahoo.com",
+      "senha": "Jd083vQ0akqhgjo",
+      "transacoes": [],
+      "saldo": 0
+    },
+    {
+      "id": "cdad0804-63bc-44c5-a45e-b92c364ade09",
+      "nome": "Pablo Nogueira",
+      "email": "Antonio62@hotmail.com",
+      "senha": "EMxZpYZKAGI8upQ",
+      "transacoes": [],
+      "saldo": 0
     }
   ]
 }
