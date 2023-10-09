@@ -1,420 +1,64 @@
 {
-  "transacoes": [
+  "users": [
     {
-      "transacao": "Depósito",
-      "valor": "150",
-      "data": "18/11/2022",
-      "mes": "Novembro",
-      "id": 1
+      "id": "40a41438-84a6-4b4d-ae1d-7f1713d0a9fe",
+      "nome": "Neilton Seguins",
+      "email": "neilton@alura.com",
+      "senha": "123456",
+      "transacoes": [
+        {
+          "id": "788f434b-11ee-451d-b968-02d203bfc81a",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "16/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "745fed04-dd02-4e45-821e-166f524d1fb2",
+          "tipoTransacao": "Depósito",
+          "valor": "500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "78c5d8c3-6f46-41d1-9152-7c2474bcd473",
+          "tipoTransacao": "Transferência",
+          "valor": "360",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "70eeaa13-cef8-4ad6-aa00-7dce77567748",
+          "tipoTransacao": "Depósito",
+          "valor": "200",
+          "data": "01/03/2023",
+          "mes": "Março"
+        }
+      ],
+      "saldo": 2340
     },
     {
-      "transacao": "Depósito",
-      "valor": "100",
-      "data": "21/11/2022",
-      "mes": "Novembro",
-      "id": 2
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "05/01/2023",
-      "mes": "Janeiro",
-      "id": 3
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "1500",
-      "data": "05/01/2023",
-      "mes": "Janeiro",
-      "id": 4
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "250",
-      "data": "05/01/2023",
-      "mes": "Janeiro",
-      "id": 5
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 6
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 7
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 8
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 9
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 10
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 11
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 12
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 13
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 14
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 15
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 16
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 17
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 18
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 19
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 20
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 21
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 22
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 23
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 24
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "10000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 25
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 26
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "10000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 27
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "500",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 28
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "10000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 29
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "15000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 30
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "10000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 31
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "25000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 32
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "10000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 33
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "25000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 34
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "10000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 35
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "25000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 36
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "10000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 37
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "25000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 38
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "10000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 39
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "25000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 40
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "10000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 41
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "25000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 42
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "10000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 43
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "25000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 44
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "60000",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 45
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "50",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 46
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "60",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 47
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "50",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 48
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "60",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 49
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "50",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 50
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "60",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 51
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "50",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 52
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "60",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 53
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "50",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 54
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "60",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 55
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "50",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 56
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "60",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 57
-    },
-    {
-      "transacao": "Depósito",
-      "valor": "50",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 58
-    },
-    {
-      "transacao": "Transferência",
-      "valor": "60",
-      "data": "22/09/2023",
-      "mes": "Setembro",
-      "id": 59
+      "id": "c691fd15-dcd5-4f24-89da-cdfa3cef9d67",
+      "nome": "Vinicius Neves",
+      "email": "vinny@alura.com",
+      "senha": "789456",
+      "transacoes": [
+        {
+          "id": "b0411964-c8d4-4742-ad6d-15bb35b71b97",
+          "tipoTransacao": "Depósito",
+          "valor": "5000",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "f065a917-d283-4075-bbc3-4e1b3d8d1f3a",
+          "tipoTransacao": "Depósito",
+          "valor": "1500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        }
+      ],
+      "saldo": 3500
     }
-  ],
-  "saldo": {
-    "valor": 43180
-  }
+  ]
 }
